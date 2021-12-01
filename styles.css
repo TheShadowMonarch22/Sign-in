@@ -1,0 +1,34 @@
+
+div h1,p
+{
+  text-align: center;
+}
+div h1
+{
+  font-size:3rem;
+}
+.container
+{
+  background-image:url('https://wallpaperaccess.com/full/429160.jpg');
+  max-width:40%;
+  padding: 3% 7%;
+  color: #fff;
+  background-repeat: no-repeat;
+}
+.signin
+{
+margin-top:15%;
+}
+.button
+{
+  margin-top:7%;
+}
+.container .sign
+{
+  text-align: center;
+  margin-top: 12%;
+}
+.sign:hover
+{
+  color: #fff;
+}
